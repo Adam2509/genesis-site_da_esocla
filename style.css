@@ -1,0 +1,20 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+ }
+ header{
+    background-color: #0ACAF4;
+    color:#ffff;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0 ;
+
+}
+.cabecalho_imagem{
+    width:  10%;
+}
+.cabesaralho_lista_item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
